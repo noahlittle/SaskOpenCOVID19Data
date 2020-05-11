@@ -2,9 +2,9 @@
 This is a collection of all publicly available case, testing, recovery, hospitalization, fatality and policy data for Saskatchewan during the ongoing COVID-19 Pandemic. Please read this document prior to any use due to some important data notes. 
 ## Cases
 There are two separate files for case data.
-### Cases.csv
+### cases.csv
 This file contains the known case data and makes few assumptions, with the exception of some minor regional distribution in March. As very little is officially released about each case, this file mostly includes only the region, subregion (if known) and date of each case.
-### Aggregate_Cases.csv
+### aggregate_cases.csv
 Using aggregate data provided daily, each case in this file contains detailed information including sex, age and transmission type. It also contains blank fields for potential future additions to the dataset. However, this data is based on daily aggregates which are arbitrarily distributed among the cases of each day. Each individual case involves a high degree of error due to this daily distribution. Overall, the aggregate data for each day should be accurate but individual cases will not be. Age, sex and transmission type are applied to each days' cases arbitrarily and should not be considered in isolation. As such, it is vital that any analysis only involves a single aspect (for example, ages over time) and not multiple (such as ages in each sex over time), as any analysis of which would be completely invalid.
 ## Fatalities
 fatalities.csv contains detailed information on each fatality collected from news media reports along with provided provincial data. Currently, region is based on the location each individual was a resident of. Personal information, such as the name of each individual, is only provided when that data is publically available and if the family consents to the release of such information.
