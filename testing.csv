@@ -1,4 +1,4 @@
-﻿date,region,cumulative_people_tested,cumulative_number_tests
+date,region,cumulative_people_tested,cumulative_number_tests
 27-Mar,Far North,115,122
 27-Mar,North,883,914
 27-Mar,Central,459,470
@@ -29,60 +29,60 @@
 31-Mar,Saskatoon,4175,4297
 31-Mar,South,969,995
 31-Mar,Regina,2581,2674
-01-Apr,Far North,NR,NR
-01-Apr,North,NR,NR
-01-Apr,Central,NR,NR
-01-Apr,Saskatoon,NR,NR
-01-Apr,South,NR,NR
-01-Apr,Regina,NR,NR
-02-Apr,Far North,217,213
-02-Apr,North,1451,1492
-02-Apr,Central,724,741
-02-Apr,Saskatoon,4670,4818
-02-Apr,South,1109,1144
-02-Apr,Regina,2842,2947
-03-Apr,Far North,236,251
-03-Apr,North,1560,1606
-03-Apr,Central,765,783
-03-Apr,Saskatoon,4968,5126
-03-Apr,South,1182,1220
-03-Apr,Regina,2984,3100
-04-Apr,Far North,249,265
-04-Apr,North,1675,1722
-04-Apr,Central,815,833
-04-Apr,Saskatoon,5090,5263
-04-Apr,South,1243,1287
-04-Apr,Regina,3147,3274
-05-Apr,Far North,257,273
-05-Apr,North,1800,1849
-05-Apr,Central,852,875
-05-Apr,Saskatoon,5441,5636
-05-Apr,South,1335,1382
-05-Apr,Regina,3331,3472
-06-Apr,Far North,264,280
-06-Apr,North,1921,1973
-06-Apr,Central,880,905
-06-Apr,Saskatoon,5706,5912
-06-Apr,South,1364,1413
-06-Apr,Regina,3509,3658
-07-Apr,Far North,269,285
-07-Apr,North,1997,2050
-07-Apr,Central,900,925
-07-Apr,Saskatoon,5969,6184
-07-Apr,South,1385,1436
-07-Apr,Regina,3645,3803
-08-Apr,Far North,278,294
-08-Apr,North,2121,2179
-08-Apr,Central,957,984
-08-Apr,Saskatoon,6263,6498
-08-Apr,South,1516,1571
-08-Apr,Regina,3878,4048
-09-Apr,Far North,289,306
-09-Apr,North,2289,2356
-09-Apr,Central,1023,1054
-09-Apr,Saskatoon,6609,6862
-09-Apr,South,1672,1732
-09-Apr,Regina,4126,4310
+1-Apr,Far North,NR,NR
+1-Apr,North,NR,NR
+1-Apr,Central,NR,NR
+1-Apr,Saskatoon,NR,NR
+1-Apr,South,NR,NR
+1-Apr,Regina,NR,NR
+2-Apr,Far North,217,213
+2-Apr,North,1451,1492
+2-Apr,Central,724,741
+2-Apr,Saskatoon,4670,4818
+2-Apr,South,1109,1144
+2-Apr,Regina,2842,2947
+3-Apr,Far North,236,251
+3-Apr,North,1560,1606
+3-Apr,Central,765,783
+3-Apr,Saskatoon,4968,5126
+3-Apr,South,1182,1220
+3-Apr,Regina,2984,3100
+4-Apr,Far North,249,265
+4-Apr,North,1675,1722
+4-Apr,Central,815,833
+4-Apr,Saskatoon,5090,5263
+4-Apr,South,1243,1287
+4-Apr,Regina,3147,3274
+5-Apr,Far North,257,273
+5-Apr,North,1800,1849
+5-Apr,Central,852,875
+5-Apr,Saskatoon,5441,5636
+5-Apr,South,1335,1382
+5-Apr,Regina,3331,3472
+6-Apr,Far North,264,280
+6-Apr,North,1921,1973
+6-Apr,Central,880,905
+6-Apr,Saskatoon,5706,5912
+6-Apr,South,1364,1413
+6-Apr,Regina,3509,3658
+7-Apr,Far North,269,285
+7-Apr,North,1997,2050
+7-Apr,Central,900,925
+7-Apr,Saskatoon,5969,6184
+7-Apr,South,1385,1436
+7-Apr,Regina,3645,3803
+8-Apr,Far North,278,294
+8-Apr,North,2121,2179
+8-Apr,Central,957,984
+8-Apr,Saskatoon,6263,6498
+8-Apr,South,1516,1571
+8-Apr,Regina,3878,4048
+9-Apr,Far North,289,306
+9-Apr,North,2289,2356
+9-Apr,Central,1023,1054
+9-Apr,Saskatoon,6609,6862
+9-Apr,South,1672,1732
+9-Apr,Regina,4126,4310
 10-Apr,Far North,308,326
 10-Apr,North,2445,2521
 10-Apr,Central,1079,1116
@@ -209,63 +209,69 @@
 30-Apr,Saskatoon,10819,11557
 30-Apr,South,2879,3032
 30-Apr,Regina,6898,7354
-01-May,Far North,813,915
-01-May,North,4549,4834
-01-May,Central,1961,2096
-01-May,Saskatoon,11012,11789
-01-May,South,2919,3080
-01-May,Regina,6999,7469
-02-May,Far North,818,921
-02-May,North,4644,4944
-02-May,Central,1983,2121
-02-May,Saskatoon,11174,11973
-02-May,South,2964,3130
-02-May,Regina,7088,7568
-03-May,Far North,889,995
-03-May,North,4893,5218
-03-May,Central,2015,2155
-03-May,Saskatoon,11343,12171
-03-May,South,3004,3175
-03-May,Regina,7167,7659
-04-May,Far North,1087,1208
-04-May,North,5010,5363
-04-May,Central,2042,2190
-04-May,Saskatoon,11511,12364
-04-May,South,3032,3208
-04-May,Regina,7290,7789
-05-May,Far North,1193,1323
-05-May,North,5181,5581
-05-May,Central,2046,2197
-05-May,Saskatoon,11662,12536
-05-May,South,3041,3220
-05-May,Regina,7334,7842
-06-May,Far North,1326,1464
-06-May,North,5274,5700
-06-May,Central,2088,2240
-06-May,Saskatoon,11837,12740
-06-May,South,3088,3270
-06-May,Regina,7422,7947
-07-May,Far North,1449,1596
-07-May,North,5494,5948
-07-May,Central,2122,2284
-07-May,Saskatoon,12001,12923
-07-May,South,3134,3323
-07-May,Regina,7512,8051
-08-May,Far North,1575,1731
-08-May,North,5693,6214
-08-May,Central,2149,2312
-08-May,Saskatoon,12163,13111
-08-May,South,3172,3366
-08-May,Regina,7633,8184
-09-May,Far North,1736,1905
-09-May,North,5965,6530
-09-May,Central,2204,2370
-09-May,Saskatoon,12334,13312
-09-May,South,3232,3433
-09-May,Regina,7726,8286
+1-May,Far North,813,915
+1-May,North,4549,4834
+1-May,Central,1961,2096
+1-May,Saskatoon,11012,11789
+1-May,South,2919,3080
+1-May,Regina,6999,7469
+2-May,Far North,818,921
+2-May,North,4644,4944
+2-May,Central,1983,2121
+2-May,Saskatoon,11174,11973
+2-May,South,2964,3130
+2-May,Regina,7088,7568
+3-May,Far North,889,995
+3-May,North,4893,5218
+3-May,Central,2015,2155
+3-May,Saskatoon,11343,12171
+3-May,South,3004,3175
+3-May,Regina,7167,7659
+4-May,Far North,1087,1208
+4-May,North,5010,5363
+4-May,Central,2042,2190
+4-May,Saskatoon,11511,12364
+4-May,South,3032,3208
+4-May,Regina,7290,7789
+5-May,Far North,1193,1323
+5-May,North,5181,5581
+5-May,Central,2046,2197
+5-May,Saskatoon,11662,12536
+5-May,South,3041,3220
+5-May,Regina,7334,7842
+6-May,Far North,1326,1464
+6-May,North,5274,5700
+6-May,Central,2088,2240
+6-May,Saskatoon,11837,12740
+6-May,South,3088,3270
+6-May,Regina,7422,7947
+7-May,Far North,1449,1596
+7-May,North,5494,5948
+7-May,Central,2122,2284
+7-May,Saskatoon,12001,12923
+7-May,South,3134,3323
+7-May,Regina,7512,8051
+8-May,Far North,1575,1731
+8-May,North,5693,6214
+8-May,Central,2149,2312
+8-May,Saskatoon,12163,13111
+8-May,South,3172,3366
+8-May,Regina,7633,8184
+9-May,Far North,1736,1905
+9-May,North,5965,6530
+9-May,Central,2204,2370
+9-May,Saskatoon,12334,13312
+9-May,South,3232,3433
+9-May,Regina,7726,8286
 10-May,Far North,1818,2000
 10-May,North,6137,6736
 10-May,Central,2227,2397
 10-May,Saskatoon,12520,13523
 10-May,South,3290,3499
 10-May,Regina,7834,8413
+11-May,Far North,1880,2067
+11-May,North,6293,6932
+11-May,Central,2253,2426
+11-May,Saskatoon,12684,13710
+11-May,South,3301,3515
+11-May,Regina,7900,8490

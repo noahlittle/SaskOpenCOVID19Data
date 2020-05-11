@@ -1,4 +1,4 @@
-﻿date,region,cumulative_recoveries
+date,region,cumulative_recoveries
 26-Mar,Far North,0
 26-Mar,North,0
 26-Mar,Central,1
@@ -35,60 +35,60 @@
 31-Mar,Saskatoon,3
 31-Mar,South,1
 31-Mar,Regina,6
-01-Apr,Far North,2
-01-Apr,North,12
-01-Apr,Central,0
-01-Apr,Saskatoon,5
-01-Apr,South,1
-01-Apr,Regina,10
-02-Apr,Far North,2
-02-Apr,North,13
-02-Apr,Central,1
-02-Apr,Saskatoon,8
-02-Apr,South,1
-02-Apr,Regina,11
-03-Apr,Far North,2
-03-Apr,North,14
-03-Apr,Central,1
-03-Apr,Saskatoon,18
-03-Apr,South,2
-03-Apr,Regina,11
-04-Apr,Far North,2
-04-Apr,North,14
-04-Apr,Central,1
-04-Apr,Saskatoon,24
-04-Apr,South,2
-04-Apr,Regina,12
-05-Apr,Far North,2
-05-Apr,North,21
-05-Apr,Central,1
-05-Apr,Saskatoon,28
-05-Apr,South,2
-05-Apr,Regina,13
-06-Apr,Far North,2
-06-Apr,North,24
-06-Apr,Central,1
-06-Apr,Saskatoon,29
-06-Apr,South,2
-06-Apr,Regina,23
-07-Apr,Far North,2
-07-Apr,North,25
-07-Apr,Central,1
-07-Apr,Saskatoon,30
-07-Apr,South,4
-07-Apr,Regina,26
-08-Apr,Far North,2
-08-Apr,North,28
-08-Apr,Central,4
-08-Apr,Saskatoon,37
-08-Apr,South,4
-08-Apr,Regina,28
-09-Apr,Far North,2
-09-Apr,North,29
-09-Apr,Central,6
-09-Apr,Saskatoon,42
-09-Apr,South,4
-09-Apr,Regina,32
+1-Apr,Far North,2
+1-Apr,North,12
+1-Apr,Central,0
+1-Apr,Saskatoon,5
+1-Apr,South,1
+1-Apr,Regina,10
+2-Apr,Far North,2
+2-Apr,North,13
+2-Apr,Central,1
+2-Apr,Saskatoon,8
+2-Apr,South,1
+2-Apr,Regina,11
+3-Apr,Far North,2
+3-Apr,North,14
+3-Apr,Central,1
+3-Apr,Saskatoon,18
+3-Apr,South,2
+3-Apr,Regina,11
+4-Apr,Far North,2
+4-Apr,North,14
+4-Apr,Central,1
+4-Apr,Saskatoon,24
+4-Apr,South,2
+4-Apr,Regina,12
+5-Apr,Far North,2
+5-Apr,North,21
+5-Apr,Central,1
+5-Apr,Saskatoon,28
+5-Apr,South,2
+5-Apr,Regina,13
+6-Apr,Far North,2
+6-Apr,North,24
+6-Apr,Central,1
+6-Apr,Saskatoon,29
+6-Apr,South,2
+6-Apr,Regina,23
+7-Apr,Far North,2
+7-Apr,North,25
+7-Apr,Central,1
+7-Apr,Saskatoon,30
+7-Apr,South,4
+7-Apr,Regina,26
+8-Apr,Far North,2
+8-Apr,North,28
+8-Apr,Central,4
+8-Apr,Saskatoon,37
+8-Apr,South,4
+8-Apr,Regina,28
+9-Apr,Far North,2
+9-Apr,North,29
+9-Apr,Central,6
+9-Apr,Saskatoon,42
+9-Apr,South,4
+9-Apr,Regina,32
 10-Apr,Far North,2
 10-Apr,North,31
 10-Apr,Central,6
@@ -215,63 +215,69 @@
 30-Apr,Saskatoon,140
 30-Apr,South,15
 30-Apr,Regina,67
-01-May,Far North,8
-01-May,North,57
-01-May,Central,9
-01-May,Saskatoon,140
-01-May,South,15
-01-May,Regina,68
-02-May,Far North,10
-02-May,North,57
-02-May,Central,10
-02-May,Saskatoon,142
-02-May,South,15
-02-May,Regina,68
-03-May,Far North,12
-03-May,North,57
-03-May,Central,10
-03-May,Saskatoon,143
-03-May,South,15
-03-May,Regina,68
-04-May,Far North,12
-04-May,North,57
-04-May,Central,10
-04-May,Saskatoon,143
-04-May,South,15
-04-May,Regina,70
-05-May,Far North,13
-05-May,North,57
-05-May,Central,10
-05-May,Saskatoon,144
-05-May,South,15
-05-May,Regina,71
-06-May,Far North,13
-06-May,North,58
-06-May,Central,10
-06-May,Saskatoon,144
-06-May,South,15
-06-May,Regina,72
-07-May,Far North,28
-07-May,North,59
-07-May,Central,10
-07-May,Saskatoon,145
-07-May,South,15
-07-May,Regina,72
-08-May,Far North,30
-08-May,North,61
-08-May,Central,10
-08-May,Saskatoon,146
-08-May,South,15
-08-May,Regina,73
-09-May,Far North,33
-09-May,North,62
-09-May,Central,10
-09-May,Saskatoon,146
-09-May,South,15
-09-May,Regina,74
+1-May,Far North,8
+1-May,North,57
+1-May,Central,9
+1-May,Saskatoon,140
+1-May,South,15
+1-May,Regina,68
+2-May,Far North,10
+2-May,North,57
+2-May,Central,10
+2-May,Saskatoon,142
+2-May,South,15
+2-May,Regina,68
+3-May,Far North,12
+3-May,North,57
+3-May,Central,10
+3-May,Saskatoon,143
+3-May,South,15
+3-May,Regina,68
+4-May,Far North,12
+4-May,North,57
+4-May,Central,10
+4-May,Saskatoon,143
+4-May,South,15
+4-May,Regina,70
+5-May,Far North,13
+5-May,North,57
+5-May,Central,10
+5-May,Saskatoon,144
+5-May,South,15
+5-May,Regina,71
+6-May,Far North,13
+6-May,North,58
+6-May,Central,10
+6-May,Saskatoon,144
+6-May,South,15
+6-May,Regina,72
+7-May,Far North,28
+7-May,North,59
+7-May,Central,10
+7-May,Saskatoon,145
+7-May,South,15
+7-May,Regina,72
+8-May,Far North,30
+8-May,North,61
+8-May,Central,10
+8-May,Saskatoon,146
+8-May,South,15
+8-May,Regina,73
+9-May,Far North,33
+9-May,North,62
+9-May,Central,10
+9-May,Saskatoon,146
+9-May,South,15
+9-May,Regina,74
 10-May,Far North,36
 10-May,North,67
 10-May,Central,10
 10-May,Saskatoon,147
 10-May,South,15
 10-May,Regina,74
+11-May,Far North,45
+11-May,North,71
+11-May,Central,10
+11-May,Saskatoon,148
+11-May,South,15
+11-May,Regina,74
