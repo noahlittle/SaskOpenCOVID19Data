@@ -21,3 +21,7 @@ Contributors to the project are listed as follows
 - Noah Little
 # License
 This dataset is licensed under a Creative Commons Attribution 4.0 International License. In basic terms, this means that anyone is able to share and/or adapt the dataset for any purpose (even commercially), with the condition that appropriate credit is given. Please see the full license text [here](https://github.com/noahlittle/SaskOpenCOVID19Data/blob/master/license.md).
+
+# Acknowledgments
+- The Government of Saskatchewan for releasing detailed data in a timely fashion
+- Saskatchewan Graphic by Adnen Kadri from the Noun Project
