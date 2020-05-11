@@ -1,0 +1,271 @@
+﻿date,region,current_inpatient,current_critical
+27-Mar,Far North,0,0
+27-Mar,North,1,0
+27-Mar,Central,0,0
+27-Mar,Saskatoon,1,1
+27-Mar,South,0,0
+27-Mar,Regina,2,1
+28-Mar,Far North,0,0
+28-Mar,North,1,0
+28-Mar,Central,0,1
+28-Mar,Saskatoon,1,1
+28-Mar,South,0,0
+28-Mar,Regina,1,1
+29-Mar,Far North,0,0
+29-Mar,North,1,0
+29-Mar,Central,0,1
+29-Mar,Saskatoon,2,0
+29-Mar,South,0,0
+29-Mar,Regina,0,1
+30-Mar,Far North,0,0
+30-Mar,North,1,0
+30-Mar,Central,0,0
+30-Mar,Saskatoon,3,0
+30-Mar,South,0,0
+30-Mar,Regina,0,1
+31-Mar,Far North,0,0
+31-Mar,North,0,0
+31-Mar,Central,0,0
+31-Mar,Saskatoon,3,0
+31-Mar,South,0,0
+31-Mar,Regina,0,1
+01-Apr,Far North,0,0
+01-Apr,North,0,0
+01-Apr,Central,0,0
+01-Apr,Saskatoon,3,0
+01-Apr,South,0,0
+01-Apr,Regina,0,1
+02-Apr,Far North,0,0
+02-Apr,North,0,0
+02-Apr,Central,0,0
+02-Apr,Saskatoon,2,1
+02-Apr,South,0,0
+02-Apr,Regina,0,1
+03-Apr,Far North,0,0
+03-Apr,North,0,0
+03-Apr,Central,0,0
+03-Apr,Saskatoon,2,0
+03-Apr,South,0,0
+03-Apr,Regina,0,1
+04-Apr,Far North,0,0
+04-Apr,North,0,0
+04-Apr,Central,0,0
+04-Apr,Saskatoon,3,0
+04-Apr,South,0,0
+04-Apr,Regina,0,1
+05-Apr,Far North,0,0
+05-Apr,North,0,0
+05-Apr,Central,0,0
+05-Apr,Saskatoon,2,1
+05-Apr,South,0,0
+05-Apr,Regina,0,1
+06-Apr,Far North,0,0
+06-Apr,North,0,0
+06-Apr,Central,0,0
+06-Apr,Saskatoon,2,1
+06-Apr,South,0,0
+06-Apr,Regina,0,1
+07-Apr,Far North,0,0
+07-Apr,North,0,0
+07-Apr,Central,0,0
+07-Apr,Saskatoon,4,1
+07-Apr,South,0,0
+07-Apr,Regina,1,1
+08-Apr,Far North,0,0
+08-Apr,North,1,0
+08-Apr,Central,0,0
+08-Apr,Saskatoon,4,1
+08-Apr,South,0,0
+08-Apr,Regina,1,1
+09-Apr,Far North,0,0
+09-Apr,North,0,0
+09-Apr,Central,0,0
+09-Apr,Saskatoon,4,1
+09-Apr,South,0,0
+09-Apr,Regina,2,1
+10-Apr,Far North,0,0
+10-Apr,North,0,0
+10-Apr,Central,0,0
+10-Apr,Saskatoon,4,1
+10-Apr,South,0,0
+10-Apr,Regina,2,1
+11-Apr,Far North,0,0
+11-Apr,North,0,0
+11-Apr,Central,0,0
+11-Apr,Saskatoon,5,1
+11-Apr,South,0,0
+11-Apr,Regina,2,0
+12-Apr,Far North,0,0
+12-Apr,North,0,0
+12-Apr,Central,0,0
+12-Apr,Saskatoon,6,0
+12-Apr,South,0,0
+12-Apr,Regina,1,0
+13-Apr,Far North,0,0
+13-Apr,North,1,0
+13-Apr,Central,0,0
+13-Apr,Saskatoon,6,0
+13-Apr,South,0,0
+13-Apr,Regina,1,0
+14-Apr,Far North,0,0
+14-Apr,North,1,0
+14-Apr,Central,0,0
+14-Apr,Saskatoon,5,0
+14-Apr,South,0,0
+14-Apr,Regina,1,0
+15-Apr,Far North,0,0
+15-Apr,North,1,0
+15-Apr,Central,0,0
+15-Apr,Saskatoon,4,0
+15-Apr,South,0,0
+15-Apr,Regina,3,0
+16-Apr,Far North,0,0
+16-Apr,North,1,0
+16-Apr,Central,0,0
+16-Apr,Saskatoon,2,0
+16-Apr,South,0,0
+16-Apr,Regina,4,0
+17-Apr,Far North,0,0
+17-Apr,North,0,0
+17-Apr,Central,0,0
+17-Apr,Saskatoon,2,0
+17-Apr,South,0,0
+17-Apr,Regina,3,1
+18-Apr,Far North,0,0
+18-Apr,North,0,0
+18-Apr,Central,0,0
+18-Apr,Saskatoon,2,0
+18-Apr,South,0,0
+18-Apr,Regina,2,1
+19-Apr,Far North,0,0
+19-Apr,North,0,0
+19-Apr,Central,0,0
+19-Apr,Saskatoon,2,0
+19-Apr,South,0,0
+19-Apr,Regina,1,1
+20-Apr,Far North,0,0
+20-Apr,North,0,0
+20-Apr,Central,0,0
+20-Apr,Saskatoon,2,0
+20-Apr,South,0,0
+20-Apr,Regina,1,1
+21-Apr,Far North,0,0
+21-Apr,North,1,0
+21-Apr,Central,0,0
+21-Apr,Saskatoon,2,0
+21-Apr,South,0,0
+21-Apr,Regina,1,1
+22-Apr,Far North,0,0
+22-Apr,North,1,0
+22-Apr,Central,0,0
+22-Apr,Saskatoon,1,1
+22-Apr,South,0,0
+22-Apr,Regina,2,0
+23-Apr,Far North,0,0
+23-Apr,North,1,0
+23-Apr,Central,0,0
+23-Apr,Saskatoon,2,1
+23-Apr,South,0,0
+23-Apr,Regina,2,0
+24-Apr,Far North,0,0
+24-Apr,North,1,0
+24-Apr,Central,0,0
+24-Apr,Saskatoon,1,2
+24-Apr,South,0,0
+24-Apr,Regina,1,0
+25-Apr,Far North,0,0
+25-Apr,North,1,0
+25-Apr,Central,0,0
+25-Apr,Saskatoon,1,2
+25-Apr,South,0,0
+25-Apr,Regina,1,0
+26-Apr,Far North,0,0
+26-Apr,North,1,0
+26-Apr,Central,0,0
+26-Apr,Saskatoon,1,2
+26-Apr,South,0,0
+26-Apr,Regina,0,0
+27-Apr,Far North,0,0
+27-Apr,North,1,0
+27-Apr,Central,0,0
+27-Apr,Saskatoon,2,2
+27-Apr,South,0,0
+27-Apr,Regina,0,0
+28-Apr,Far North,0,0
+28-Apr,North,3,0
+28-Apr,Central,0,0
+28-Apr,Saskatoon,2,2
+28-Apr,South,0,0
+28-Apr,Regina,0,0
+29-Apr,Far North,0,0
+29-Apr,North,3,0
+29-Apr,Central,0,0
+29-Apr,Saskatoon,3,2
+29-Apr,South,0,0
+29-Apr,Regina,0,0
+30-Apr,Far North,0,0
+30-Apr,North,4,0
+30-Apr,Central,0,0
+30-Apr,Saskatoon,3,3
+30-Apr,South,0,0
+30-Apr,Regina,0,0
+01-May,Far North,0,0
+01-May,North,4,0
+01-May,Central,0,0
+01-May,Saskatoon,3,3
+01-May,South,0,0
+01-May,Regina,0,0
+02-May,Far North,0,0
+02-May,North,5,0
+02-May,Central,0,0
+02-May,Saskatoon,5,2
+02-May,South,0,0
+02-May,Regina,0,0
+03-May,Far North,0,0
+03-May,North,5,0
+03-May,Central,0,0
+03-May,Saskatoon,6,3
+03-May,South,0,0
+03-May,Regina,0,0
+04-May,Far North,0,0
+04-May,North,2,1
+04-May,Central,0,0
+04-May,Saskatoon,5,3
+04-May,South,0,0
+04-May,Regina,0,0
+05-May,Far North,0,0
+05-May,North,2,1
+05-May,Central,0,0
+05-May,Saskatoon,7,3
+05-May,South,0,0
+05-May,Regina,0,0
+06-May,Far North,0,0
+06-May,North,2,1
+06-May,Central,0,0
+06-May,Saskatoon,7,3
+06-May,South,0,0
+06-May,Regina,0,0
+07-May,Far North,0,0
+07-May,North,2,1
+07-May,Central,0,0
+07-May,Saskatoon,6,3
+07-May,South,0,0
+07-May,Regina,0,0
+08-May,Far North,0,0
+08-May,North,6,1
+08-May,Central,0,0
+08-May,Saskatoon,9,3
+08-May,South,0,0
+08-May,Regina,0,0
+09-May,Far North,0,0
+09-May,North,6,1
+09-May,Central,0,0
+09-May,Saskatoon,4,4
+09-May,South,0,0
+09-May,Regina,0,0
+10-May,Far North,0,0
+10-May,North,5,0
+10-May,Central,0,0
+10-May,Saskatoon,3,4
+10-May,South,0,0
+10-May,Regina,0,0

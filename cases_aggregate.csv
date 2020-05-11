@@ -1,0 +1,565 @@
+id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hcw
+1,12-Mar,Saskatchewan,Saskatoon,Saskatoon,60-69,M*,Egypt,NR,NR
+2,13-Mar,Saskatchewan,Saskatoon,Saskatoon,60-69,F*,"Oregon, USA",NR,NR
+3,14-Mar,Saskatchewan,Regina,Regina,40-49,M*,Vancouver,NR,NR
+4,14-Mar,Saskatchewan,Regina,Regina,40-49,M*,Vancouver,NR,NR
+5,14-Mar,Saskatchewan,Regina,Regina,20-29,M*,"Tennessee, USA",NR,NR
+6,14-Mar,Saskatchewan,Far North,Southend,30-39,F*,"Nigeria, Germany, Alberta",NR,Y
+7,16-Mar,Saskatchewan,Regina,Regina,60-69,M*,"Arizona, USA",NR,NR
+8,17-Mar,Saskatchewan,Regina,Regina,20+*,F*,Vancouver,NR,NR
+9,18-Mar,Saskatchewan,Southern SK,Moose Jaw,20+*,M*,Vancouver,NR,NR
+10,18-Mar,Saskatchewan,Far North,NR,40s,M*,Close Contact,NR,NR
+11,18-Mar,Saskatchewan,Saskatoon,Saskatoon,40-49,M*,Vancouver,NR,NR
+12,18-Mar,Saskatchewan,Saskatoon,Saskatoon,20-29,F*,"Oregon, Nevada, Edmonton",NR,NR
+13,18-Mar,Saskatchewan,Saskatoon,Saskatoon,20-29,F*,Tennessee,NR,NR
+14,18-Mar,Saskatchewan,Regina,Regina,20+*,M*,"Cancun, Mexico",NR,NR
+15,18-Mar,Saskatchewan,Regina,Regina,20+*,M*,"Cabo San Lucas, Mexico",NR,NR
+16,18-Mar,Saskatchewan,Regina,Regina,30-39,M*,NR,NR,NR
+17,19-Mar,Saskatchewan,Central SK,NR,<19*,F*,Travel,NR,NR
+18,19-Mar,Saskatchewan,Regina,Regina,20+*,M*,Close Contact,NR,NR
+19,19-Mar,Saskatchewan,Southern SK,NR,20+*,F*,Travel,NR,NR
+20,19-Mar,Saskatchewan,Saskatoon,Saskatoon,40-80,M,Edmonton,NR,NR
+21,20-Mar,Saskatchewan,Regina,Regina,20-39,F*,"Cabo San Lucas, Mexico",NR,NR
+22,20-Mar,Saskatchewan,Regina,Regina,20-29,F*,USA,NR,NR
+23,20-Mar,Saskatchewan,Regina,Regina,50-59,M*,Jordan,NR,NR
+24,20-Mar,Saskatchewan,Regina,Regina,60-69,M*,NR,NR,NR
+25,20-Mar,Saskatchewan,Central SK,Prince Albert,60-69,M*,"Arizona, USA",NR,NR
+26,20-Mar,Saskatchewan,Northern SK,Prince Albert,60-69,F*,"Arizona, USA",NR,NR
+27,21-Mar,Saskatchewan,Central SK,NR,20,M*,NR,NR,NR
+28,21-Mar,Saskatchewan,Regina,Regina,20,M*,NR,NR,NR
+29,21-Mar,Saskatchewan,Regina,Regina,20,F*,NR,NR,NR
+30,21-Mar,Saskatchewan,Regina,Regina,20,M*,NR,NR,NR
+31,21-Mar,Saskatchewan,Regina,Regina,20,M*,NR,NR,NR
+32,21-Mar,Saskatchewan,Regina,Regina,20,M*,NR,NR,NR
+33,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+34,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+35,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+36,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+37,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+38,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+39,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+40,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+41,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+42,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+43,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+44,21-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+45,22-Mar,Saskatchewan,Far North,NR,20,M*,NR,NR,NR
+46,22-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+47,22-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+48,22-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+49,22-Mar,Saskatchewan,Central SK,NR,20,M*,NR,NR,NR
+50,22-Mar,Saskatchewan,Central SK,NR,20,M*,NR,NR,NR
+51,22-Mar,Saskatchewan,Northern SK,NR,20,F*,NR,NR,NR
+52,22-Mar,Saskatchewan,Regina,Regina,20,M*,NR,NR,NR
+53,23-Mar,Saskatchewan,Central SK,NR,20,M*,NR,NR,NR
+54,23-Mar,Saskatchewan,Northern SK,NR,20,M*,NR,NR,NR
+55,23-Mar,Saskatchewan,Northern SK,NR,20,M*,NR,NR,NR
+56,23-Mar,Saskatchewan,Northern SK,NR,20,F*,NR,NR,NR
+57,23-Mar,Saskatchewan,Saskatoon,Saskatoon,<19*,M*,NR,NR,NR
+58,23-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+59,23-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+60,23-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+61,23-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+62,23-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+63,23-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+64,23-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+65,23-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+66,23-Mar,Saskatchewan,Regina,Regina,20,F*,NR,NR,NR
+67,24-Mar,Saskatchewan,Regina,Regina,20,M*,NR,NR,NR
+68,24-Mar,Saskatchewan,Regina,Regina,20,F*,NR,NR,NR
+69,24-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+70,24-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+71,24-Mar,Saskatchewan,Saskatoon,Saskatoon,20,F*,NR,NR,NR
+72,24-Mar,Saskatchewan,Saskatoon,Saskatoon,20,M*,NR,NR,NR
+73,25-Mar,Saskatchewan,Regina,Regina,20-64*,F*,NR,NR,NR
+74,25-Mar,Saskatchewan,Regina,Regina,20-64*,M*,NR,NR,NR
+75,25-Mar,Saskatchewan,Regina,Regina,20-64*,F*,NR,NR,NR
+76,25-Mar,Saskatchewan,Regina,Regina,<19*,M*,NR,NR,NR
+77,25-Mar,Saskatchewan,Regina,Regina,65+*,F*,NR,NR,NR
+78,25-Mar,Saskatchewan,Saskatoon,Saskatoon,20-64*,F*,NR,NR,NR
+79,25-Mar,Saskatchewan,Saskatoon,Saskatoon,20-64*,M*,NR,NR,NR
+80,25-Mar,Saskatchewan,Saskatoon,Saskatoon,<19*,F*,NR,NR,NR
+81,25-Mar,Saskatchewan,Saskatoon,Saskatoon,20-64*,M*,NR,NR,NR
+82,25-Mar,Saskatchewan,Saskatoon,Saskatoon,65+*,M*,NR,NR,NR
+83,25-Mar,Saskatchewan,Saskatoon,Saskatoon,20-64*,F*,NR,NR,NR
+84,25-Mar,Saskatchewan,Saskatoon,Saskatoon,20-64*,F*,NR,NR,NR
+85,25-Mar,Saskatchewan,Southern SK,NR,20-64*,M*,NR,NR,NR
+86,25-Mar,Saskatchewan,Central SK,NR,20-64*,F*,NR,NR,NR
+87,26-Mar,Saskatchewan,Regina,Regina,20-64*,M*,NR,NR,NR
+88,26-Mar,Saskatchewan,Saskatoon,Saskatoon,20-64*,M*,NR,NR,NR
+89,26-Mar,Saskatchewan,Saskatoon,Saskatoon,20-64*,M*,NR,NR,NR
+90,26-Mar,Saskatchewan,Saskatoon,Saskatoon,20-64*,M*,NR,NR,NR
+91,26-Mar,Saskatchewan,Central SK,NR,20-64*,F*,NR,NR,NR
+92,26-Mar,Saskatchewan,Northern SK,NR,20-64*,F*,NR,NR,NR
+93,26-Mar,Saskatchewan,Northern SK,NR,20-64*,F*,NR,NR,NR
+94,26-Mar,Saskatchewan,Northern SK,NR,20-64*,F*,NR,NR,NR
+95,26-Mar,Saskatchewan,Northern SK,NR,65+*,F*,NR,NR,NR
+96,27-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+97,27-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,F*,NR,NR,NR
+98,27-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+99,27-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+100,27-Mar,Saskatchewan,Southern SK,NR,45-64*,F*,NR,NR,NR
+101,27-Mar,Saskatchewan,Northern SK,NR,65+*,M*,NR,NR,NR
+102,27-Mar,Saskatchewan,Northern SK,NR,65+*,F*,NR,NR,NR
+103,27-Mar,Saskatchewan,Northern SK,NR,65+*,M*,NR,NR,NR
+104,27-Mar,Saskatchewan,Northern SK,NR,65+*,F*,NR,NR,NR
+105,28-Mar,Saskatchewan,Northern SK,NR,<19*,M*,NR,NR,NR
+106,28-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+107,28-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+108,28-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+109,28-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+110,28-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+111,28-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+112,28-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+113,28-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+114,28-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+115,28-Mar,Saskatchewan,Northern SK,NR,45-64*,M*,NR,NR,NR
+116,28-Mar,Saskatchewan,Northern SK,NR,45-64*,M*,NR,NR,NR
+117,28-Mar,Saskatchewan,Northern SK,NR,45-64*,M*,NR,NR,NR
+118,28-Mar,Saskatchewan,Northern SK,NR,45-64*,M*,NR,NR,NR
+119,28-Mar,Saskatchewan,Central SK,NR,45-64*,M*,NR,NR,NR
+120,28-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,M*,NR,NR,NR
+121,28-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,M*,NR,NR,NR
+122,28-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+123,28-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+124,28-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+125,28-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+126,28-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+127,28-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+128,28-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+129,28-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+130,28-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+131,28-Mar,Saskatchewan,Regina,Regina,65+*,F*,NR,NR,NR
+132,28-Mar,Saskatchewan,Regina,Regina,65+*,F*,NR,NR,NR
+133,28-Mar,Saskatchewan,Regina,Regina,65+*,F*,NR,NR,NR
+134,28-Mar,Saskatchewan,Regina,Regina,65+*,F*,NR,NR,NR
+135,29-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+136,29-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+137,29-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+138,29-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+139,29-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+140,29-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+141,29-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+142,29-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+143,29-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+144,29-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+145,29-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+146,29-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,M*,NR,NR,NR
+147,29-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,M*,NR,NR,NR
+148,29-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,M*,NR,NR,NR
+149,29-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+150,29-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+151,29-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+152,29-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+153,29-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+154,29-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+155,29-Mar,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+156,29-Mar,Saskatchewan,Regina,Regina,65+*,F*,NR,NR,NR
+157,30-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+158,30-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+159,30-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+160,30-Mar,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+161,30-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+162,30-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+163,30-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,F*,NR,NR,NR
+164,30-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,F*,NR,NR,NR
+165,30-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,F*,NR,NR,NR
+166,30-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,F*,NR,NR,NR
+167,30-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,F*,NR,NR,NR
+168,30-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+169,30-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+170,30-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+171,30-Mar,Saskatchewan,Saskatoon,Saskatoon,65+*,F*,NR,NR,NR
+172,30-Mar,Saskatchewan,Saskatoon,Saskatoon,65+*,F*,NR,NR,NR
+173,30-Mar,Saskatchewan,Southern SK,NR,65+*,F*,NR,NR,NR
+174,30-Mar,Saskatchewan,Southern SK,NR,65+*,F*,NR,NR,NR
+175,30-Mar,Saskatchewan,Regina,Regina,65+*,F*,NR,NR,NR
+176,30-Mar,Saskatchewan,Regina,Regina,65+*,F*,NR,NR,NR
+177,31-Mar,Saskatchewan,Saskatoon,Saskatoon,<19*,M*,NR,NR,NR
+178,31-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+179,31-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+180,31-Mar,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+181,31-Mar,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+182,31-Mar,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+183,31-Mar,Saskatchewan,Regina,Regina,65+*,F*,NR,NR,NR
+184,31-Mar,Saskatchewan,Regina,Regina,65+*,F*,NR,NR,NR
+185,01-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+186,01-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+187,01-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+188,01-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+189,01-Apr,Saskatchewan,Southern SK,NR,45-64*,M*,NR,NR,NR
+190,01-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+191,01-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+192,01-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+193,01-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+194,02-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+195,02-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+196,02-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+197,02-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+198,02-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+199,02-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+200,02-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,M*,NR,NR,NR
+201,02-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+202,02-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+203,02-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+204,02-Apr,Saskatchewan,Southern SK,NR,45-64*,F*,NR,NR,NR
+205,02-Apr,Saskatchewan,Southern SK,NR,65+*,F*,NR,NR,NR
+206,02-Apr,Saskatchewan,Northern SK,NR,65+*,F*,NR,NR,NR
+207,03-Apr,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+208,03-Apr,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+209,03-Apr,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+210,03-Apr,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+211,03-Apr,Saskatchewan,Regina,Regina,20-44*,M*,NR,NR,NR
+212,03-Apr,Saskatchewan,Southern SK,NR,20-44*,M*,NR,NR,NR
+213,03-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+214,03-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,M*,NR,NR,NR
+215,03-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+216,03-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+217,03-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+218,03-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+219,03-Apr,Saskatchewan,Saskatoon,Saskatoon,65+*,F*,NR,NR,NR
+220,03-Apr,Saskatchewan,Saskatoon,Saskatoon,65+*,F*,NR,NR,NR
+221,04-Apr,Saskatchewan,Southern SK,NR,<19*,M*,NR,NR,NR
+222,04-Apr,Saskatchewan,Southern SK,NR,20-44*,M*,NR,NR,NR
+223,04-Apr,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+224,04-Apr,Saskatchewan,Regina,Regina,20-44*,M*,NR,NR,NR
+225,04-Apr,Saskatchewan,Regina,Regina,20-44*,F*,NR,NR,NR
+226,04-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+227,04-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+228,04-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+229,04-Apr,Saskatchewan,Saskatoon,Saskatoon,65+*,F*,NR,NR,NR
+230,04-Apr,Saskatchewan,Central SK,NR,65+*,F*,NR,NR,NR
+231,04-Apr,Saskatchewan,Southern SK,NR,65+*,F*,NR,NR,NR
+232,05-Apr,Saskatchewan,Saskatoon,Saskatoon,<19*,M*,NR,NR,NR
+233,05-Apr,Saskatchewan,Saskatoon,Saskatoon,<19*,M*,NR,NR,NR
+234,05-Apr,Saskatchewan,Saskatoon,Saskatoon,<19*,M*,NR,NR,NR
+235,05-Apr,Saskatchewan,Saskatoon,Saskatoon,<19*,M*,NR,NR,NR
+236,05-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+237,05-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+238,05-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+239,05-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+240,05-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,M*,NR,NR,NR
+241,05-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,M*,NR,NR,NR
+242,05-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+243,05-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+244,05-Apr,Saskatchewan,Northern SK,NR,45-64*,F*,NR,NR,NR
+245,05-Apr,Saskatchewan,Northern SK,NR,45-64*,F*,NR,NR,NR
+246,05-Apr,Saskatchewan,Northern SK,NR,65+*,F*,NR,NR,NR
+247,05-Apr,Saskatchewan,Northern SK,NR,65+*,F*,NR,NR,NR
+248,05-Apr,Saskatchewan,Southern SK,NR,65+*,F*,NR,NR,NR
+249,05-Apr,Saskatchewan,Southern SK,NR,65+*,F*,NR,NR,NR
+250,06-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,F*,NR,NR,NR
+251,06-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,F*,NR,NR,NR
+252,06-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+253,06-Apr,Saskatchewan,Saskatoon,Saskatoon,65+*,F*,NR,NR,NR
+254,07-Apr,Saskatchewan,Regina,Regina,<19*,M*,NR,NR,NR
+255,07-Apr,Saskatchewan,Saskatoon,Saskatoon,<19*,M*,NR,NR,NR
+256,07-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+257,07-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+258,07-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+259,07-Apr,Saskatchewan,Northern SK,NR,45-64*,F*,NR,NR,NR
+260,07-Apr,Saskatchewan,Far North,NR,45-64*,F*,NR,NR,NR
+261,08-Apr,Saskatchewan,Regina,Regina,<19*,M*,NR,NR,NR
+262,08-Apr,Saskatchewan,Regina,Regina,<19*,M*,NR,NR,NR
+263,08-Apr,Saskatchewan,Regina,Regina,20-44*,M*,NR,NR,NR
+264,08-Apr,Saskatchewan,Regina,Regina,20-44*,M*,NR,NR,NR
+265,08-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,M*,NR,NR,NR
+266,08-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,M*,NR,NR,NR
+267,08-Apr,Saskatchewan,Saskatoon,Saskatoon,65+*,M*,NR,NR,NR
+268,08-Apr,Saskatchewan,Saskatoon,Saskatoon,65+*,M*,NR,NR,NR
+269,08-Apr,Saskatchewan,Northern SK,NR,65+*,M*,NR,NR,NR
+270,08-Apr,Saskatchewan,Northern SK,NR,65+*,F*,NR,NR,NR
+271,08-Apr,Saskatchewan,Northern SK,NR,65+*,F*,NR,NR,NR
+272,09-Apr,Saskatchewan,Far North,NR,20-44*,M*,NR,NR,NR
+273,09-Apr,Saskatchewan,Northern SK,NR,20-44*,M*,NR,NR,NR
+274,09-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+275,09-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+276,09-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,F*,NR,NR,NR
+277,09-Apr,Saskatchewan,Regina,Regina,20-44*,F*,NR,NR,NR
+278,09-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+279,10-Apr,Saskatchewan,Saskatoon,Saskatoon,<19*,M*,NR,NR,NR
+280,10-Apr,Saskatchewan,Saskatoon,Saskatoon,<19*,M*,NR,NR,NR
+281,10-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+282,10-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+283,10-Apr,Saskatchewan,Regina,Regina,20-44*,F*,NR,NR,NR
+284,10-Apr,Saskatchewan,Regina,Regina,20-44*,F*,NR,NR,NR
+285,10-Apr,Saskatchewan,Far North,NR,45-64*,F*,NR,NR,NR
+286,11-Apr,Saskatchewan,Saskatoon,Saskatoon,<19*,M*,NR,NR,NR
+287,11-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,M*,NR,NR,NR
+288,11-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,F*,NR,NR,NR
+289,11-Apr,Saskatchewan,Northern SK,NR,65+*,F*,NR,NR,NR
+290,12-Apr,Saskatchewan,Northern SK,NR,<19*,M*,NR,NR,NR
+291,12-Apr,Saskatchewan,Northern SK,NR,<19*,M*,NR,NR,NR
+292,12-Apr,Saskatchewan,Northern SK,NR,20-44*,F*,NR,NR,NR
+293,12-Apr,Saskatchewan,Northern SK,NR,20-44*,F*,NR,NR,NR
+294,12-Apr,Saskatchewan,Saskatoon,Saskatoon,20-44*,F*,NR,NR,NR
+295,12-Apr,Saskatchewan,Saskatoon,Saskatoon,45-64*,F*,NR,NR,NR
+296,12-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+297,12-Apr,Saskatchewan,Regina,Regina,45-64*,F*,NR,NR,NR
+298,12-Apr,Saskatchewan,Regina,Regina,65+*,F*,NR,NR,NR
+299,13-Apr,Saskatchewan,Regina,Regina,45-64,M*,NR,NR,NR
+300,13-Apr,Saskatchewan,Regina,Regina,<19,F*,NR,NR,NR
+301,14-Apr,Saskatchewan,Northern SK,NR,65,F*,NR,NR,NR
+302,15-Apr,Saskatchewan,Regina,Regina,45-64*,M*,NR,NR,NR
+303,15-Apr,Saskatchewan,Regina,Regina,20-44*,F*,NR,NR,NR
+304,15-Apr,Saskatchewan,Northern SK,NR,<19*,F*,NR,NR,NR
+305,16-Apr,Saskatchewan,Regina,Regina,20-44,F*,NR,NR,NR
+306,17-Apr,Saskatchewan,Regina,Regina,20,M*,NR,NR,NR
+307,17-Apr,Saskatchewan,Far North,NR,20,F*,NR,NR,NR
+308,18-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+309,18-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+310,18-Apr,Saskatchewan,Northern SK,NR,20-39*,M*,NR,NR,NR
+311,18-Apr,Saskatchewan,Saskatoon,Saskatoon,20-39*,F*,NR,NR,NR
+312,18-Apr,Saskatchewan,Central SK,NR,60-79*,F*,NR,NR,NR
+313,18-Apr,Saskatchewan,Regina,Regina,80+*,F*,NR,NR,NR
+314,19-Apr,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+315,19-Apr,Saskatchewan,Saskatoon,Saskatoon,40-59*,F*,NR,NR,NR
+316,20-Apr,Saskatchewan,Northern SK,NR,80,F*,NR,NR,NR
+317,21-Apr,Saskatchewan,Regina,Regina,<19*,M*,NR,NR,NR
+318,21-Apr,Saskatchewan,Saskatoon,Saskatoon,20-39*,M*,NR,NR,NR
+319,21-Apr,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+320,21-Apr,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+321,22-Apr,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+322,22-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+323,22-Apr,Saskatchewan,Far North,NR,40-59*,M*,NR,NR,NR
+324,22-Apr,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+325,22-Apr,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+326,22-Apr,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR
+327,23-Apr,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+328,23-Apr,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+329,23-Apr,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+330,23-Apr,Saskatchewan,Far North,NR,60-79*,F*,NR,NR,NR
+331,23-Apr,Saskatchewan,Northern SK,NR,80+*,F*,NR,NR,NR
+332,24-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+333,24-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+334,24-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+335,24-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+336,24-Apr,Saskatchewan,Far North,NR,40-59*,M*,NR,NR,NR
+337,24-Apr,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+338,24-Apr,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+339,24-Apr,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+340,24-Apr,Saskatchewan,Regina,Regina,60-79*,F*,NR,NR,NR
+341,24-Apr,Saskatchewan,Regina,Regina,80+*,F*,NR,NR,NR
+342,25-Apr,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+343,25-Apr,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+344,25-Apr,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+345,25-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+346,25-Apr,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+347,25-Apr,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+348,25-Apr,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+349,25-Apr,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+350,26-Apr,Saskatchewan,Regina,NR,20-39*,M*,NR,NR,NR
+351,26-Apr,Saskatchewan,Northern SK,NR,40-59*,M*,NR,NR,NR
+352,26-Apr,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+353,26-Apr,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR
+354,27-Apr,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+355,27-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+356,27-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+357,27-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+358,27-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+359,27-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+360,27-Apr,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+361,27-Apr,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+362,27-Apr,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+363,27-Apr,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+364,27-Apr,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+365,27-Apr,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR
+366,28-Apr,Saskatchewan,Regina,Regina,40-59,M*,NR,NR,NR
+367,29-Apr,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+368,29-Apr,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+369,29-Apr,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+370,29-Apr,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+371,29-Apr,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+372,29-Apr,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+373,29-Apr,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+374,29-Apr,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+375,29-Apr,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+376,29-Apr,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+377,29-Apr,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+378,29-Apr,Saskatchewan,Northern SK,NR,20-39*,F*,NR,NR,NR
+379,29-Apr,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+380,29-Apr,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+381,29-Apr,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+382,29-Apr,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+383,29-Apr,Saskatchewan,Saskatoon,Saskatoon,60-79*,F*,NR,NR,NR
+384,30-Apr,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+385,30-Apr,Saskatchewan,Northern SK,NR,20-39*,M*,NR,NR,NR
+386,30-Apr,Saskatchewan,Northern SK,NR,40-59*,M*,NR,NR,NR
+387,30-Apr,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+388,30-Apr,Saskatchewan,Saskatoon,Saskatoon,60-79*,F*,NR,NR,NR
+389,30-Apr,Saskatchewan,Saskatoon,Saskatoon,80+*,F*,NR,NR,NR
+390,01-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+391,01-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+392,01-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+393,01-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+394,01-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+395,01-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+396,01-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+397,01-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+398,01-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+399,01-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+400,01-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+401,01-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+402,01-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+403,01-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+404,01-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+405,01-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+406,01-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+407,01-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+408,01-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+409,01-May,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+410,01-May,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+411,01-May,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+412,01-May,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR
+413,01-May,Saskatchewan,Saskatoon,Saskatoon,60-79*,F*,NR,NR,NR
+414,01-May,Saskatchewan,Saskatoon,Saskatoon,60-79*,F*,NR,NR,NR
+415,01-May,Saskatchewan,Saskatoon,Saskatoon,80+*,F*,NR,NR,NR
+416,02-May,Saskatchewan,Northern SK,NR,20-39*,M*,NR,NR,NR
+417,02-May,Saskatchewan,Northern SK,NR,20-39*,M*,NR,NR,NR
+418,02-May,Saskatchewan,Northern SK,NR,40-59*,M*,NR,NR,NR
+419,02-May,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR
+420,02-May,Saskatchewan,Regina,Regina,60-79*,F*,NR,NR,NR
+421,02-May,Saskatchewan,Saskatoon,Saskatoon,80+*,F*,NR,NR,NR
+422,03-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+423,03-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+424,03-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+425,03-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+426,03-May,Saskatchewan,Northern SK,NR,20-39*,M*,NR,NR,NR
+427,03-May,Saskatchewan,Northern SK,NR,20-39*,M*,NR,NR,NR
+428,03-May,Saskatchewan,Northern SK,NR,20-39*,F*,NR,NR,NR
+429,03-May,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+430,03-May,Saskatchewan,Saskatoon,Saskatoon,60-79*,F*,NR,NR,NR
+431,03-May,Saskatchewan,Saskatoon,Saskatoon,60-79*,F*,NR,NR,NR
+432,03-May,Saskatchewan,Saskatoon,Saskatoon,60-79*,F*,NR,NR,NR
+433,03-May,Saskatchewan,Saskatoon,Saskatoon,80+*,F*,NR,NR,NR
+434,04-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+435,04-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+436,04-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+437,04-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+438,04-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+439,04-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+440,04-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+441,04-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+442,04-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+443,04-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+444,04-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+445,04-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+446,04-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+447,04-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+448,04-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+449,04-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+450,04-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+451,04-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+452,04-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+453,04-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+454,04-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+455,04-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+456,04-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+457,04-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+458,04-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+459,04-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+460,04-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+461,04-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+462,04-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+463,04-May,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR
+464,04-May,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR
+465,04-May,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR
+466,04-May,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR
+467,04-May,Saskatchewan,Saskatoon,Saskatoon,60-79*,F*,NR,NR,NR
+468,05-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+469,05-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+470,05-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+471,05-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+472,05-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+473,05-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+474,05-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+475,05-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+476,05-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+477,05-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+478,05-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+479,05-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+480,05-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+481,05-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+482,05-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+483,05-May,Saskatchewan,Far North,NR,60-79*,F*,NR,NR,NR
+484,05-May,Saskatchewan,Far North,NR,60-79*,F*,NR,NR,NR
+485,05-May,Saskatchewan,Far North,NR,60-79*,F*,NR,NR,NR
+486,05-May,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR
+487,05-May,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR
+488,06-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+489,06-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+490,06-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+491,06-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+492,06-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+493,06-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+494,06-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+495,06-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+496,06-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+497,06-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+498,06-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+499,06-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+500,06-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+501,06-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+502,06-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+503,06-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+504,06-May,Saskatchewan,Far North,NR,40-59*,M*,NR,NR,NR
+505,06-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+506,06-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+507,06-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+508,06-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+509,06-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+510,06-May,Saskatchewan,Far North,NR,60-79*,F*,NR,NR,NR
+511,06-May,Saskatchewan,Far North,NR,60-79*,F*,NR,NR,NR
+512,06-May,Saskatchewan,Saskatoon,Saskatoon,60-79*,F*,NR,NR,NR
+513,07-May,Saskatchewan,Northern SK,NR,<19*,M*,NR,NR,NR
+514,07-May,Saskatchewan,Northern SK,NR,<19*,M*,NR,NR,NR
+515,07-May,Saskatchewan,Northern SK,NR,<19*,M*,NR,NR,NR
+516,07-May,Saskatchewan,Northern SK,NR,<19*,M*,NR,NR,NR
+517,07-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR
+518,07-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+519,07-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+520,07-May,Saskatchewan,Far North,La Loche,20-39*,M*,NR,NR,NR
+521,07-May,Saskatchewan,Far North,La Loche,20-39*,M*,NR,NR,NR
+522,07-May,Saskatchewan,Far North,La Loche,20-39*,F*,NR,NR,NR
+523,07-May,Saskatchewan,Far North,La Loche,20-39*,F*,NR,NR,NR
+524,07-May,Saskatchewan,Far North,La Loche,40-59*,F*,NR,NR,NR
+525,07-May,Saskatchewan,Far North,La Loche,40-59*,F*,NR,NR,NR
+526,07-May,Saskatchewan,Far North,La Loche,40-59*,F*,NR,NR,NR
+527,07-May,Saskatchewan,Far North,La Loche,40-59*,F*,NR,NR,NR
+528,07-May,Saskatchewan,Far North,La Loche,60-79*,F*,NR,NR,NR
+529,07-May,Saskatchewan,Far North,La Loche,60-79*,F*,NR,NR,NR
+530,07-May,Saskatchewan,Far North,La Loche,60-79*,F*,NR,NR,NR
+531,07-May,Saskatchewan,Far North,La Loche,80+*,F*,NR,NR,NR
+532,08-May,Saskatchewan,Northern SK,NR,40-59*,M*,NR,NR,NR
+533,08-May,Saskatchewan,Far North,La Loche,<19*,M*,NR,NR,NR
+534,08-May,Saskatchewan,Far North,La Loche,20-39*,M*,NR,NR,NR
+535,08-May,Saskatchewan,Far North,La Loche,20-39*,M*,NR,NR,NR
+536,08-May,Saskatchewan,Far North,La Loche,20-39*,M*,NR,NR,NR
+537,08-May,Saskatchewan,Far North,La Loche,20-39*,M*,NR,NR,NR
+538,08-May,Saskatchewan,Far North,La Loche,40-59*,M*,NR,NR,NR
+539,08-May,Saskatchewan,Far North,La Loche,40-59*,F*,NR,NR,NR
+540,08-May,Saskatchewan,Far North,La Loche,40-59*,F*,NR,NR,NR
+541,08-May,Saskatchewan,Far North,La Loche,40-59*,F*,NR,NR,NR
+542,08-May,Saskatchewan,Far North,La Loche,40-59*,F*,NR,NR,NR
+543,08-May,Saskatchewan,Far North,La Loche,40-59*,F*,NR,NR,NR
+544,08-May,Saskatchewan,Far North,La Loche,40-59*,F*,NR,NR,NR
+545,09-May,Saskatchewan,Central SK,NR,<19*,M*,NR,NR,NR
+546,09-May,Saskatchewan,Northern SK,NR,<19*,M*,NR,NR,NR
+547,09-May,Saskatchewan,Northern SK,NR,20-39*,M*,NR,NR,NR
+548,09-May,Saskatchewan,Northern SK,NR,20-39*,M*,NR,NR,NR
+549,09-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+550,09-May,Saskatchewan,Far North,NR,20-39*,F*,NR,NR,NR
+551,09-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+552,09-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+553,09-May,Saskatchewan,Far North,NR,60-79*,F*,NR,NR,NR
+554,10-May,Saskatchewan,Northern SK,NR,<19*,M*,NR,NR,NR
+555,10-May,Saskatchewan,Northern SK,NR,<19*,M*,NR,NR,NR
+556,10-May,Saskatchewan,Far North,La Loche,<19*,M*,NR,NR,NR
+557,10-May,Saskatchewan,Far North,La Loche,20-39*,M*,NR,NR,NR
+558,10-May,Saskatchewan,Far North,La Loche,20-39*,M*,NR,NR,NR
+559,10-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR
+560,10-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+561,10-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+562,10-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR
+563,10-May,Saskatchewan,Far North,NR,60-79*,F*,NR,NR,NR
+564,10-May,Saskatchewan,Far North,NR,80+*,F*,NR,NR,NR
