@@ -1,6 +1,5 @@
-# Saskatchewan COVID-19 Data
-This is a collection of all publicly available case, testing, recovery, hospitalization, fatality and policy data for Saskatchewan during the ongoing COVID-19 Pandemic. Please read this document prior to any use of the data.
-
+# Saskatchewan Open COVID-19 Data
+This is a collection of all publicly available case, testing, recovery, hospitalization, fatality and policy data for Saskatchewan during the ongoing COVID-19 Pandemic. Please read this document prior to any use due to some important data notes. 
 ## Cases
 There are two separate files for case data.
 ### Cases.csv
@@ -17,3 +16,8 @@ recoveries.csv contains daily recovery information for each region of the provin
 hospitalizations.csv contains daily hospitalization data for each region of the province. The 'current_inpatient' field refers to the number of COVID-19 patients recieving inpatient care on each day in each region and the 'current_critical' field refers to the number of patients currently recieving care in the ICU on each day for each region. Note that 'current_inpatient' is NOT inclusive to the ICU cases and both must be summed in order to determine the total daily hospitalizations in each region.
 ## Policy
 policy.csv contains a list of Public Health policies by date enacted to limit the spread of COVID-19. Refer to key.csv if any shorthand unclear.
+# Contributors
+Contributors to the project are listed as follows
+- Noah Little
+# License
+This dataset is licensed under a Creative Commons Attribution 4.0 International License. In basic terms, this means that anyone is able to share and/or adapt the dataset for any purpose (even commercially), with the condition that appropriate credit is given. Please see the full license text [here](https://github.com/noahlittle/SaskOpenCOVID19Data/blob/master/license.md).
