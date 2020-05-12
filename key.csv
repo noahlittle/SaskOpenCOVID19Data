@@ -1,6 +1,8 @@
-﻿NR,"not reported, no data available"
+abbreviation,meaning
+NR,"not reported, no data available"
 Y,"yes, applies"
 PHO,Public Health Order
 -E,exceptions apply
 P/S,primary and secondary educational institutes
 NSAD,Northern Saskatchewan Administration District
+1-facility,Workers only allowed to work at a single ltcf
