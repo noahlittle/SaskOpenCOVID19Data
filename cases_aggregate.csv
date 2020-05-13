@@ -1,4 +1,4 @@
-id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hcw,
+id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hcw,notes
 1,12-Mar,Saskatchewan,Saskatoon,Saskatoon,60-69,M*,Egypt,NR,NR,
 2,13-Mar,Saskatchewan,Saskatoon,Saskatoon,60-69,F*,"Oregon, USA",NR,NR,
 3,14-Mar,Saskatchewan,Regina,Regina,40-49,M*,Vancouver,NR,NR,
@@ -418,7 +418,7 @@ id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hc
 417,2-May,Saskatchewan,Northern SK,NR,20-39*,M*,NR,NR,NR,
 418,2-May,Saskatchewan,Northern SK,NR,40-59*,M*,NR,NR,NR,
 419,2-May,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR,
-420,2-May,Saskatchewan,Regina,Regina,60-79*,F*,NR,NR,NR,
+420,2-May,Saskatchewan,Northern SK,NR,60-79*,F*,NR,NR,NR,*reassigned from Regina on May 13
 421,2-May,Saskatchewan,Saskatoon,Saskatoon,80+*,F*,NR,NR,NR,
 422,3-May,Saskatchewan,Far North,NR,<19*,M*,NR,NR,NR,
 423,3-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR,
@@ -572,3 +572,7 @@ id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hc
 571,12-May,Saskatchewan,Far North,Beauval,40-59*,F*,NR,NR,NR,
 572,12-May,Saskatchewan,Far North,La Loche,60-79*,F*,NR,NR,NR,
 573,12-May,Saskatchewan,Far North,La Loche,60-79*,F*,NR,NR,NR,
+574,13-May,Saskatchewan,Far North,La Loche,40-59,M*,NR,NR,NR,
+575,13-May,Saskatchewan,Far North,La Loche,20-39,M*,NR,NR,NR,
+576,13-May,Saskatchewan,Far North,La Loche,20-39,F*,NR,NR,NR,
+577,13-May,Saskatchewan,Far North,La Loche,20-39,F*,NR,NR,NR,
