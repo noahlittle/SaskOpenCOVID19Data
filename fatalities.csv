@@ -1,7 +1,7 @@
 id,name,age,region,subregion,type,sex,race,comorbidities,hospital,symptoms,ventilated,transmission,death_date
 1,Alice Grove,75,Central Region,North Battleford,Rural,F,Caucasian,NR,Battlefords Union,"Fever, Difficulty Breathing",Y,NR,28-Mar
 2,NR,85,Central Region,Kamsack,Rural,M,NR,NR,NR,NR,NR,NR,29-Mar
-3,Ron Mackay,85,Saskatoon,Saskatoon,Urban,M,Caucasian,NR,Royal University Hospital (RUH),NR,NR,Community,31-Mar
+3,Ron Mackay,85,Saskatoon,Saskatoon,Urban,M,Caucasian,NR,Royal University Hospital,NR,NR,Community,31-Mar
 4,Noble Gullacher,69,Regina,Regina,Urban,M,Caucasian,Kidney Disease,Regina General Hospital,NR,NR,Community,10-Apr
 5,Joseph Pierre Sylvester,83,Far North,La Loche,LTCH,M,Indigenous,NR,Battlefords Union,NR,NR,NR,26-Apr
 6,Agnes McDonald,85,Far North,La Loche,LTCH,F,Indigenous,NR,NR,NR,NR,NR,28-Apr
