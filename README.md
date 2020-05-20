@@ -21,7 +21,8 @@ Contributors to the project are listed as follows
 - Noah Little
 # License
 This dataset is licensed under a Creative Commons Attribution 4.0 International License. In basic terms, this means that anyone is able to share and/or adapt the dataset for any purpose (even commercially), with the condition that appropriate credit is given. Please see the full license text [here](https://github.com/noahlittle/SaskOpenCOVID19Data/blob/master/license.md).
-
+# Sources
+Most data including testing, recoveries and hospitalizations data is collected daily from the Saskatchewan.ca "Cases and Risks of COVID-19 in Saskatchewan" page, an archive of which is available [here](https://publications.saskatchewan.ca/#/products/104914). More detailed data regarding cases and fatalities is collected from a variety of news media sources. In addition, the line-by-line case information is based off of data published to the [COVID-19 Tracker Canada project](https://covid19tracker.ca).
 # Acknowledgments
 - The Government of Saskatchewan for releasing detailed data in a timely fashion
 - Saskatchewan Graphic by Adnen Kadri from the Noun Project
