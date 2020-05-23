@@ -626,3 +626,6 @@ id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hc
 625,22-May,Saskatchewan,Far North,NR,<19*,F*,NR,NR,NR,
 626,22-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR,
 627,22-May,Saskatchewan,Southern SK,NR,40-59*,F*,NR,NR,NR,
+628,23-May,Saskatchewan,Saskatoon,NR,20-39*,M*,NR,NR,NR,
+629,23-May,Saskatchewan,Saskatoon,NR,20-39*,F*,NR,NR,NR,
+630,23-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR,
