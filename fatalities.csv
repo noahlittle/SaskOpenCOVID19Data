@@ -5,4 +5,5 @@ id,name,age,region,subregion,type,sex,race,comorbidities,hospital,symptoms,venti
 4,Noble Gullacher,69,Regina,Regina,Urban,M,Caucasian,Kidney Disease,Regina General Hospital,NR,NR,Community,10-Apr
 5,Joseph Pierre Sylvester,83,Far North,La Loche,LTCH,M,Indigenous,NR,Battlefords Union,NR,NR,NR,26-Apr
 6,Agnes McDonald,85,Far North,La Loche,LTCH,F,Indigenous,NR,NR,NR,NR,NR,28-Apr
-7,NR ,60-69,Northern Region,NR,NR,NR,NR,NR,NR,NR,NR,NR,20-May
+7,NR,60-69,Northern Region,NR,NR,NR,NR,NR,NR,NR,NR,NR,20-May
+8,NR,50-59,Far North,NR,NR,NR,NR,NR,NR,NR,NR,NR,26-May
