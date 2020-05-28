@@ -636,3 +636,5 @@ id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hc
 635,27-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR,
 636,27-May,Saskatchewan,Regina,NR,40-59*,F*,NR,NR,NR,
 637,27-May,Saskatchewan,Regina,NR,40-59*,F*,NR,NR,NR,
+638,28-May,Saskatchewan,Saskatoon,NR,<19*,F*,NR,NR,NR,
+639,28-May,Saskatchewan,Northern SK,NR,20-39*,F*,NR,NR,NR,
