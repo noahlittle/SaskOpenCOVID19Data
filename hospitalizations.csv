@@ -395,3 +395,9 @@ date,region,current_inpatient,current_critical
 31-May,Saskatoon,2,1
 31-May,South,0,0
 31-May,Regina,1,0
+1-Jun,Far North,0,0
+1-Jun,North,0,0
+1-Jun,Central,0,0
+1-Jun,Saskatoon,1,2
+1-Jun,South,0,0
+1-Jun,Regina,1,0

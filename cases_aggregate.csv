@@ -635,7 +635,6 @@ id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hc
 634,25-May,Saskatchewan,Northern SK,NR ,40-59*,F*,NR,NR,NR,
 635,27-May,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR,
 636,27-May,Saskatchewan,Regina,NR,40-59*,F*,NR,NR,NR,
-637,27-May,Saskatchewan,Regina,NR,40-59*,F*,NR,NR,NR,
 638,28-May,Saskatchewan,Saskatoon,NR,<19*,F*,NR,NR,NR,
 639,28-May,Saskatchewan,Northern SK,NR,20-39*,F*,NR,NR,NR,
 640,29-May,Saskatchewan,Saskatoon,NR,20-39*,M*,NR,NR,NR,
@@ -645,3 +644,4 @@ id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hc
 644,30-May,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR,
 645,30-May,Saskatchewan,Regina,NR,60-79*,F*,NR,NR,NR,
 646,31-May,Saskatchewan,Regina,NR,40-59,F*,NR,NR,NR,
+646,1-Jun,Saskatchewan,Regina,NR,40-59*,M*,NR,NR,NR,
