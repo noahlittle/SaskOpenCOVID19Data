@@ -657,3 +657,5 @@ id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hc
 656,9-Jun,Saskatchewan,Far North,NR,60-79,M*,NR,NR,NR,
 657,10-Jun,Saskatchewan,Saskatoon,NR,20-39*,F*,NR,NR,NR,
 658,10-Jun,Saskatchewan,Southern SK,NR,60-79*,F*,NR,NR,NR,
+659,11-Jun,Saskatchewan,Saskatoon,NR,20-39*,M*,,,,
+660,11-Jun,Saskatchewan,Far North,NR,40-59*,F*,,,,
