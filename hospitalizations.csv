@@ -485,3 +485,9 @@ date,region,current_inpatient,current_critical
 15-Jun,Saskatoon,0,1
 15-Jun,South,0,0
 15-Jun,Regina,0,0
+16-Jun,Far North,0,0
+16-Jun,North,1,0
+16-Jun,Central,0,0
+16-Jun,Saskatoon,1,1
+16-Jun,South,0,0
+16-Jun,Regina,0,0
