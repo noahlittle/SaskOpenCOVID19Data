@@ -656,12 +656,12 @@ id,reported_date,province,region,subregion,age,transmission,notes
 655,9-Jun,Saskatchewan,Saskatoon,NR,60-79,NR,
 656,9-Jun,Saskatchewan,Far North,NR,60-79,NR,
 657,10-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
-658,10-Jun,Saskatchewan,Southern SK,NR,NR,NR,
+658,10-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,
 659,11-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
 660,11-Jun,Saskatchewan,Far North,NR,NR,NR,
 661,12-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
 662,12-Jun,Saskatchewan,Far North,NR,NR,NR,
-663,12-Jun,Saskatchewan,Southern SK,NR,NR,NR,
+663,12-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,
 664,13-Jun,Saskatchewan,Far North,NR,60-79,NR,
 665,14-Jun,Saskatchewan,Saskatoon,NR,20-39,NR,
 666,15-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
@@ -692,3 +692,18 @@ id,reported_date,province,region,subregion,age,transmission,notes
 691,17-Jun,Saskatchewan,Far North,NR,NR,NR,
 692,17-Jun,Saskatchewan,Far North,NR,NR,NR,
 693,17-Jun,Saskatchewan,Far North,NR,NR,NR,
+694,18-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Hutterite Colony Outbreak
+695,18-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Hutterite Colony Outbreak
+696,18-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Hutterite Colony Outbreak
+697,18-Jun,Saskatchewan,Southern SK,Maple Creek,20-39,NR,Hutterite Colony Outbreak
+698,18-Jun,Saskatchewan,Southern SK,Maple Creek,20-39,NR,Hutterite Colony Outbreak
+699,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Hutterite Colony Outbreak
+700,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Hutterite Colony Outbreak
+701,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Hutterite Colony Outbreak
+702,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Hutterite Colony Outbreak
+703,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Hutterite Colony Outbreak
+704,18-Jun,Saskatchewan,Southern SK,Maple Creek,60-79,NR,Hutterite Colony Outbreak
+705,18-Jun,Saskatchewan,Southern SK,Maple Creek,60-79,NR,Hutterite Colony Outbreak
+706,18-Jun,Saskatchewan,Southern SK,Maple Creek,60-79,NR,Hutterite Colony Outbreak
+707,18-Jun,Saskatchewan,Southern SK,Maple Creek,80+,NR,Hutterite Colony Outbreak
+708,18-Jun,Saskatchewan,Far North,NR,NR,NR,
