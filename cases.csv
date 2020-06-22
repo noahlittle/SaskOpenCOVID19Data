@@ -682,36 +682,71 @@ id,reported_date,province,region,subregion,age,transmission,notes
 681,15-Jun,Saskatchewan,Far North,NR,NR,NR,
 682,15-Jun,Saskatchewan,Non-resident,NR,NR,NR,
 683,15-Jun,Saskatchewan,Non-resident,NR,NR,NR,
-684,16-Jun,Saskatchewan,Saskatoon,NR,20-39,NR,
+684,17-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
 685,17-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
-686,17-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
+686,17-Jun,Saskatchewan,Far North,NR,NR,NR,
 687,17-Jun,Saskatchewan,Far North,NR,NR,NR,
 688,17-Jun,Saskatchewan,Far North,NR,NR,NR,
 689,17-Jun,Saskatchewan,Far North,NR,NR,NR,
 690,17-Jun,Saskatchewan,Far North,NR,NR,NR,
 691,17-Jun,Saskatchewan,Far North,NR,NR,NR,
 692,17-Jun,Saskatchewan,Far North,NR,NR,NR,
-693,17-Jun,Saskatchewan,Far North,NR,NR,NR,
+693,18-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Hutterite Colony Outbreak
 694,18-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Hutterite Colony Outbreak
 695,18-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Hutterite Colony Outbreak
-696,18-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Hutterite Colony Outbreak
+696,18-Jun,Saskatchewan,Southern SK,Maple Creek,20-39,NR,Hutterite Colony Outbreak
 697,18-Jun,Saskatchewan,Southern SK,Maple Creek,20-39,NR,Hutterite Colony Outbreak
-698,18-Jun,Saskatchewan,Southern SK,Maple Creek,20-39,NR,Hutterite Colony Outbreak
+698,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Hutterite Colony Outbreak
 699,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Hutterite Colony Outbreak
 700,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Hutterite Colony Outbreak
 701,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Hutterite Colony Outbreak
 702,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Hutterite Colony Outbreak
-703,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Hutterite Colony Outbreak
+703,18-Jun,Saskatchewan,Southern SK,Maple Creek,60-79,NR,Hutterite Colony Outbreak
 704,18-Jun,Saskatchewan,Southern SK,Maple Creek,60-79,NR,Hutterite Colony Outbreak
 705,18-Jun,Saskatchewan,Southern SK,Maple Creek,60-79,NR,Hutterite Colony Outbreak
-706,18-Jun,Saskatchewan,Southern SK,Maple Creek,60-79,NR,Hutterite Colony Outbreak
-707,18-Jun,Saskatchewan,Southern SK,Maple Creek,80+,NR,Hutterite Colony Outbreak
-708,18-Jun,Saskatchewan,Far North,NR,NR,NR,
+706,18-Jun,Saskatchewan,Southern SK,Maple Creek,80+,NR,Hutterite Colony Outbreak
+707,18-Jun,Saskatchewan,Far North,NR,NR,NR,
+708,19-Jun,Saskatchewan,Far North,NR,40-59,NR,
 709,19-Jun,Saskatchewan,Far North,NR,40-59,NR,
 710,19-Jun,Saskatchewan,Far North,NR,40-59,NR,
 711,19-Jun,Saskatchewan,Far North,NR,40-59,NR,
-712,19-Jun,Saskatchewan,Far North,NR,40-59,NR,
+712,19-Jun,Saskatchewan,Far North,NR,NR,NR,
 713,19-Jun,Saskatchewan,Far North,NR,NR,NR,
 714,19-Jun,Saskatchewan,Far North,NR,NR,NR,
-715,19-Jun,Saskatchewan,Far North,NR,NR,NR,
-716,19-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
+715,19-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
+716,20-Jun,Saskatchewan,Far North,NR,NR,NR,
+717,20-Jun,Saskatchewan,Far North,NR,NR,NR,
+718,20-Jun,Saskatchewan,Far North,NR,NR,NR,
+719,20-Jun,Saskatchewan,Far North,NR,NR,NR,
+720,20-Jun,Saskatchewan,Far North,NR,NR,NR,
+721,20-Jun,Saskatchewan,Far North,NR,NR,NR,
+722,20-Jun,Saskatchewan,Far North,NR,NR,NR,
+723,20-Jun,Saskatchewan,Southern SK,NR,NR,NR,
+724,20-Jun,Saskatchewan,Southern SK,NR,NR,NR,
+725,20-Jun,Saskatchewan,Northern SK,NR,NR,NR,
+726,20-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
+727,21-Jun,Saskatchewan,Southern SK,20-39,NR,NR,
+728,21-Jun,Saskatchewan,Southern SK,20-39,NR,NR,
+729,21-Jun,Saskatchewan,Southern SK,20-39,NR,NR,
+730,21-Jun,Saskatchewan,Southern SK,20-39,NR,NR,
+731,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
+732,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
+733,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
+734,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
+735,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
+736,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
+737,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
+738,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
+739,21-Jun,Saskatchewan,Southern SK,60-79,NR,NR,
+740,21-Jun,Saskatchewan,Southern SK,NR,NR,NR,
+741,21-Jun,Saskatchewan,Southern SK,NR,NR,NR,
+742,21-Jun,Saskatchewan,Southern SK,NR,NR,NR,
+743,21-Jun,Saskatchewan,Southern SK,NR,NR,NR,
+744,21-Jun,Saskatchewan,Southern SK,NR,NR,NR,
+745,21-Jun,Saskatchewan,Far North,NR,NR,NR,
+746,21-Jun,Saskatchewan,Far North,NR,NR,NR,
+747,22-Jun,Saskatchewan,Far North,40-59,NR,NR,
+748,22-Jun,Saskatchewan,Far North,40-59,NR,NR,
+749,22-Jun,Saskatchewan,Far North,NR,NR,NR,
+750,22-Jun,Saskatchewan,Far North,NR,NR,NR,
+751,22-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
