@@ -700,7 +700,7 @@ id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hc
 699,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59*,M*,NR,NR,NR,Hutterite Colony Outbreak
 700,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59*,M*,NR,NR,NR,Hutterite Colony Outbreak
 701,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59*,F*,NR,NR,NR,Hutterite Colony Outbreak
-702,18-Jun,Saskatchewan,Southern SK,Maple Creek,40-59*,F*,NR,NR,NR,Hutterite Colony Outbreak
+702,18-Jun,Saskatchewan,Southern SK,Maple Creek,NR,F*,NR,NR,NR,Hutterite Colony Outbreak
 703,18-Jun,Saskatchewan,Southern SK,Maple Creek,60-79*,F*,NR,NR,NR,Hutterite Colony Outbreak
 704,18-Jun,Saskatchewan,Southern SK,Maple Creek,60-79*,F*,NR,NR,NR,Hutterite Colony Outbreak
 705,18-Jun,Saskatchewan,Southern SK,Maple Creek,60-79*,F*,NR,NR,NR,Hutterite Colony Outbreak
@@ -766,3 +766,6 @@ id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hc
 764,24-Jun,Saskatchewan,Far North,NR,20-39*,M*,NR,NR,NR,
 765,24-Jun,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR,
 766,24-Jun,Saskatchewan,Southern SK,NR,40-59*,F*,NR,NR,NR,
+767,25-Jun,Saskatchewan,Far North,NR,40-59,M*,NR,NR,NR,
+768,25-Jun,Saskatchewan,Far North,NR,40-59*,F*,NR,NR,NR,
+769,25-Jun,Saskatchewan,Saskatoon,NR,40-59*,F*,NR,NR,NR,
