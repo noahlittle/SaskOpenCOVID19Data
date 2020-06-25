@@ -1,7 +1,7 @@
 # Saskatchewan Open COVID-19 Data
 
 ### Important Data Note
-Case data in this dataset includes out-of-province residents who tested positive for COVID-19 while in Saskatchewan. As such, the total is 9 cases higher than the official count, which recently removed non-resident cases.
+Case data in this dataset includes out-of-province residents who tested positive for COVID-19 while in Saskatchewan. As such, the total is 10 cases higher than the official count, which recently removed non-resident cases.
 
 The removal of non-resident cases by the Government of Saskatchewan without indicating which cases were removed makes it impossible to determine which cases are from out-of-province residents. They were unwilling to specify the dates and general regions of the removed cases.
 
