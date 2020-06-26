@@ -725,19 +725,19 @@ id,reported_date,province,region,subregion,age,transmission,notes
 724,20-Jun,Saskatchewan,Southern SK,NR,NR,NR,
 725,20-Jun,Saskatchewan,Northern SK,NR,NR,NR,
 726,20-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
-727,21-Jun,Saskatchewan,Southern SK,20-39,NR,NR,
-728,21-Jun,Saskatchewan,Southern SK,20-39,NR,NR,
-729,21-Jun,Saskatchewan,Southern SK,20-39,NR,NR,
-730,21-Jun,Saskatchewan,Southern SK,20-39,NR,NR,
-731,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
-732,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
-733,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
-734,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
-735,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
-736,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
-737,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
-738,21-Jun,Saskatchewan,Southern SK,40-59,NR,NR,
-739,21-Jun,Saskatchewan,Southern SK,60-79,NR,NR,
+727,21-Jun,Saskatchewan,Southern SK,NR,20-39,NR,
+728,21-Jun,Saskatchewan,Southern SK,NR,20-39,NR,
+729,21-Jun,Saskatchewan,Southern SK,NR,20-39,NR,
+730,21-Jun,Saskatchewan,Southern SK,NR,20-39,NR,
+731,21-Jun,Saskatchewan,Southern SK,NR,40-59,NR,
+732,21-Jun,Saskatchewan,Southern SK,NR,40-59,NR,
+733,21-Jun,Saskatchewan,Southern SK,NR,40-59,NR,
+734,21-Jun,Saskatchewan,Southern SK,NR,40-59,NR,
+735,21-Jun,Saskatchewan,Southern SK,NR,40-59,NR,
+736,21-Jun,Saskatchewan,Southern SK,NR,40-59,NR,
+737,21-Jun,Saskatchewan,Southern SK,NR,40-59,NR,
+738,21-Jun,Saskatchewan,Southern SK,NR,40-59,NR,
+739,21-Jun,Saskatchewan,Southern SK,NR,60-79,NR,
 740,21-Jun,Saskatchewan,Southern SK,NR,NR,NR,
 741,21-Jun,Saskatchewan,Southern SK,NR,NR,NR,
 742,21-Jun,Saskatchewan,Southern SK,NR,NR,NR,
@@ -745,8 +745,8 @@ id,reported_date,province,region,subregion,age,transmission,notes
 744,21-Jun,Saskatchewan,Southern SK,NR,NR,NR,
 745,21-Jun,Saskatchewan,Far North,NR,NR,NR,
 746,21-Jun,Saskatchewan,Far North,NR,NR,NR,
-747,22-Jun,Saskatchewan,Far North,40-59,NR,NR,
-748,22-Jun,Saskatchewan,Far North,40-59,NR,NR,
+747,22-Jun,Saskatchewan,Far North,NR,40-59,NR,
+748,22-Jun,Saskatchewan,Far North,NR,40-59,NR,
 749,22-Jun,Saskatchewan,Far North,NR,NR,NR,
 750,22-Jun,Saskatchewan,Far North,NR,NR,NR,
 751,22-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
@@ -765,6 +765,19 @@ id,reported_date,province,region,subregion,age,transmission,notes
 764,24-Jun,Saskatchewan,Far North,NR,NR,NR,
 765,24-Jun,Saskatchewan,Northern SK,NR,NR,NR,
 766,24-Jun,Saskatchewan,Southern SK,NR,NR,NR,
-767,25-Jun,Saskatchewan,Far North,40-59,NR,NR,
+767,25-Jun,Saskatchewan,Far North,NR,40-59,NR,
 768,25-Jun,Saskatchewan,Far North,NR,NR,NR,
 769,25-Jun,Saskatchewan,Saskatoon,NR,NR,NR,
+770,26-Jun,Saskatchewan,Southern SK,Maple Creek,20-39,NR,Related to Maple Creek Outbreak
+771,26-Jun,Saskatchewan,Southern SK,Maple Creek,20-39,NR,Related to Maple Creek Outbreak
+772,26-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Related to Maple Creek Outbreak
+773,26-Jun,Saskatchewan,Southern SK,Maple Creek,40-59,NR,Related to Maple Creek Outbreak
+774,26-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Related to Maple Creek Outbreak
+775,26-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Related to Maple Creek Outbreak
+776,26-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Related to Maple Creek Outbreak
+777,26-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Related to Maple Creek Outbreak
+778,26-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Related to Maple Creek Outbreak
+779,26-Jun,Saskatchewan,Southern SK,Maple Creek,NR,NR,Related to Maple Creek Outbreak
+780,26-Jun,Saskatchewan,Northern SK,NR,NR,NR,
+781,26-Jun,Saskatchewan,Northern SK,NR,NR,NR,
+782,26-Jun,Saskatchewan,Far North,NR,NR,NR,
