@@ -1,7 +1,7 @@
 # Saskatchewan Open COVID-19 Data
 
 ### Important Data Note
-Case data in this dataset includes out-of-province residents who tested positive for COVID-19 while in Saskatchewan. As such, the total is 11 cases higher than the official count, which recently removed non-resident cases.
+Case data in this dataset includes out-of-province residents who tested positive for COVID-19 while in Saskatchewan. As such, the total is 11 cases higher than the official provincial count, which recently removed non-resident cases.
 
 The removal of non-resident cases by the Government of Saskatchewan without indicating which cases were removed makes it impossible to determine which cases are from out-of-province residents. They were unwilling to specify the dates and general regions of the removed cases.
 
@@ -9,7 +9,7 @@ The removal of non-resident cases by the Government of Saskatchewan without indi
 
 This is a collection of all publicly available case, testing, recovery, hospitalization, fatality and policy data for Saskatchewan during the ongoing COVID-19 Pandemic. Please read this document and familiarize yourself with our [methodology](https://github.com/noahlittle/SaskOpenCOVID19Data/blob/master/METHODOLOGY.md) prior to any use due to some important data notes. For clarification of any definitions or abbreviations used, please refer to [key.csv](https://github.com/noahlittle/SaskOpenCOVID19Data/blob/master/key.csv). If you wish to view the data rather than download it, all data is available to be viewed online [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpXwT4tlmuwbCyI-IkkJZNVEYu2IjuxieoNDpW_ibIMY1niFDkn17_ZWYWvz5nq-X6mNLF_gm3U9XL/pubhtml).
 
-Updates are made Monday through Saturday by 2:30CST. Sunday's updates are included in the updates posted on Mondays.
+Saskatchewan no longer provides updates during the weekend. Updates to this repository will now be made daily Monday through Friday. The weekend values are included in the updates posted on Mondays.
 
 ## Cases
 There are two separate files for case data.
