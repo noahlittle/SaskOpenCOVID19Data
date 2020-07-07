@@ -816,3 +816,4 @@ id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hc
 814,6-Jul,Saskatchewan,Northern SK,NR,40-59*,F*,NR,NR,NR,
 815,6-Jul,Saskatchewan,Southern SK,NR,40-59*,F*,NR,NR,NR,
 816,6-Jul,Saskatchewan,Central SK,NR,60-79*,F*,NR,NR,NR,
+817,7-Jul,Saskatchewan,Saskatoon,NR,20-39,F*,NR,NR,NR,Tested positive while out-of-province
