@@ -817,3 +817,10 @@ id,reported_date,province,region,subregion,age,sex,transmission,comorbidities,hc
 815,6-Jul,Saskatchewan,Southern SK,NR,40-59*,F*,NR,NR,NR,
 816,6-Jul,Saskatchewan,Central SK,NR,60-79*,F*,NR,NR,NR,
 817,7-Jul,Saskatchewan,Saskatoon,NR,20-39,F*,NR,NR,NR,Tested positive while out-of-province
+818,8-Jul,Saskatchewan,Saskatoon,NR,<19*,M*,NR,NR,NR,
+819,8-Jul,Saskatchewan,Northern SK,NR,20-39*,F*,NR,NR,NR,
+820,9-Jul,Saskatchewan,Saskatoon,NR,<19*,M*,NR,NR,NR,
+821,9-Jul,Saskatchewan,Far North,NR,40-59*,M*,NR,NR,NR,
+822,9-Jul,Saskatchewan,Central SK,NR,60-79*,F*,NR,NR,NR,
+823,9-Jul,Saskatchewan,Southern SK,NR,60-79*,F*,NR,NR,NR,
+824,9-Jul,Saskatchewan,Southern SK,NR,60-79*,F*,NR,NR,NR,
